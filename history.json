@@ -1,6 +1,6 @@
 {
   "repository": "aopao/pinyin-annotator",
-  "updated": "2026-11-17",
+  "updated": "2026-11-18",
   "points": [
     {
       "date": "2026-11-05",
@@ -52,6 +52,10 @@
     },
     {
       "date": "2026-11-17",
+      "stars": 0
+    },
+    {
+      "date": "2026-11-18",
       "stars": 0
     }
   ]
